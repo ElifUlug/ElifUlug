@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently working on some personal projects.
 
-
-<!-- [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats) -->
-
 # Languages
 
 <a href="#" target="_blank"> <img src="https://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" alt="html" height="100"/> </a>
