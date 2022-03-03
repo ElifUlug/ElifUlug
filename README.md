@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on some personal projects.
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-ulug/)
-
 
 <!-- [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
 <br/>
@@ -22,8 +20,10 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="100"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="100"/> </a> 
 
+## 📫 How to reach me: <br>
 
-<!---
-Yusuf-D/Yusuf-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-ulug/)
+
+<br>
+
+- 💬 If you require any further information, please feel free to contact me.
