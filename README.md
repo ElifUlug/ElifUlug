@@ -16,8 +16,18 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="100"/> </a> 
 
  <br> 
+ 
+ # 📈 Statistics
 
-## 📫 How to reach me: <br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=emrevarli" alt="visitor counter" width="20%"/></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emrevarli&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=emrevarli&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
+
+
+# 📫 How to reach me: <br>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-ulug/)
 
