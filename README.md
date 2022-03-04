@@ -24,7 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ElifUlug&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElifUlug&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifUlug&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ElifUlug&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
 
 
 # 📫 How to reach me: <br>
