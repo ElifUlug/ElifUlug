@@ -16,7 +16,7 @@
   
 <details align="center">
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
-<p><a href="https://blog-app-milistone-project.netlify.app/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
+<p><a href="https://elifulug.github.io/Survey-form/" target="_blank" rel="noreferrer">Survey Form</a></p>
 </details>
   <hr/>
 
