@@ -4,9 +4,7 @@
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
-
-  <p><a href="https://blog-app-milistone-project.netlify.app/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
-  <p><a href="" target="_blank" rel="noreferrer"></a></p>
+<p><a href="https://blog-app-milistone-project.netlify.app/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
 </details>
   <hr/>
 
