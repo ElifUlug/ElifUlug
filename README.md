@@ -39,7 +39,7 @@
 <p><a href="https://elifulug.github.io/Technology-design/" target="_blank" rel="noreferrer">Technology</a></p>
 <p><a href="https://elifulug.github.io/Sass-portfolio/" target="_blank" rel="noreferrer">SASS Portfolio</a></p>
 <p><a href="https://elifulug.github.io/Parallax-Website/" target="_blank" rel="noreferrer">Parallax Website</a></p>
-<p><a href="https://elifulug.github.io/Google-landing-page/" target="_blank" rel="noreferrer">Google Landing Page</a></p>
+<p><a href="https://elifulug.github.io/Google/" target="_blank" rel="noreferrer">Google Page</a></p>
 <p><a href="https://elifulug.github.io/School-project/" target="_blank" rel="noreferrer">School Project-Bootstrap</a></p>
   
 </details>
