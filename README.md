@@ -27,7 +27,7 @@
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
 <p><a href="https://elifulug.github.io/Survey-form/" target="_blank" rel="noreferrer">Survey Form</a></p>
 <p><a href="https://elifulug.github.io/Sass-basic/" target="_blank" rel="noreferrer">SASS Basic Page</a></p>
-<p><a href="https://elifulug.github.io/Website-Page-Design/" target="_blank" rel="noreferrer">Website Page Design</a></p>
+<p><a href="https://elifulug.github.io/Website-Design/" target="_blank" rel="noreferrer">Website Design</a></p>
 <p><a href="https://elifulug.github.io/Newspaper-design/" target="_blank" rel="noreferrer">Newspaper</a></p>
 <p><a href="https://elifulug.github.io/Automotive-car-design/" target="_blank" rel="noreferrer">Automotive</a></p>
 <p><a href="https://elifulug.github.io/Fashion-design/" target="_blank" rel="noreferrer">Fashion</a></p>
