@@ -4,7 +4,7 @@
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 <p><a href="https://elifulug-task-tracker-react.netlify.app" target="_blank" rel="noreferrer">Task Tracker</a></p>
-<p><a href="https://elifulug-movie-app-react.netlify.app" target="_blank" rel="noreferrer">Movie App</a></p>
+<p><a href="https://elifulug-movie-app.vercel.app/" target="_blank" rel="noreferrer">Movie App</a></p>
 <p><a href="https://elifulug-web-page-router-react-project.netlify.app" target="_blank" rel="noreferrer">Web Design Page</a></p>
 <p><a href="https://recipe-app-router.netlify.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
 <p><a href="https://elifulug-tour-places.vercel.app/" target="_blank" rel="noreferrer">Popular Tour Places</a></p>
