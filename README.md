@@ -19,7 +19,7 @@
 <details align="center">
   <summary><h3><em>Click For JavaScript Projects!</em></h3></summary>
 <p><a href="https://elifulug.github.io/Booklist-JS/" target="_blank" rel="noreferrer">Booklist</a></p>
-<p><a href="https://elifulug.github.io/Movie-seat-app/" target="_blank" rel="noreferrer">Movie Seat App</a></p>
+<p><a href="https://elifulug.github.io/Movie-seat-app/" target="_blank" rel="noreferrer">Movie Ticket App</a></p>
 <p><a href="https://elifulug.github.io/To-do-app/" target="_blank" rel="noreferrer">To Do App</a></p>
 <p><a href="https://elifulug.github.io/Guess-the-number-game/" target="_blank" rel="noreferrer">Guess The Number</a></p>
 <p><a href="https://elifulug.github.io/Score-keeper/" target="_blank" rel="noreferrer">Score Keeper</a></p>
